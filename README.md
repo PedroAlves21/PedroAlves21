@@ -14,15 +14,15 @@ Atualmente em imersão total na língua e cultura norte-americana 🇺🇸, busc
 
 ## 💼 Experiência
 
-- 🔧 **INCODE Tech School** — Estágio em desenvolvimento de software
+- **INCODE Tech School** — Estágio em desenvolvimento de software
   - Transformação de processos Excel em plataformas digitais.
   - Participação em projetos com empresas como a Projeta Engenharia.
 
-- 🔧 **Universidade Ceuma** — Estágio supervisionado
+- **Universidade Ceuma** — Estágio supervisionado
   - Desenvolvimento de APIs com Spring Boot e Java.
   - Colaboração com startups universitárias.
 
-- 🚀 **Hackathon NASA 2019** — 🥉 3º Lugar
+- **Hackathon NASA 2019** — 🥉 3º Lugar
   - Participação em desafios de inovação tecnológica global.
 
 ---
@@ -38,19 +38,19 @@ Atualmente em imersão total na língua e cultura norte-americana 🇺🇸, busc
 
 ## 🧠 Atualmente estudando
 
-- 📊 **Data Science & Engenharia de Dados**
-- 🛡️ **Segurança em APIs e autenticação JWT**
-- 🧩 **Zettelkasten para gestão do conhecimento pessoal**
-- 🏋️‍♂️ **Biomecânica e estratégias avançadas de treino**
-- 🗣️ **Inglês (imersão total com foco em escrita e fala)**
+- **Data Science & Engenharia de Dados**
+- **Segurança em APIs e autenticação JWT**
+- **Zettelkasten para gestão do conhecimento pessoal**
+- **Biomecânica e estratégias avançadas de treino**
+- **Inglês (imersão total com foco em escrita e fala)**
 
 ---
 
 ## 🎯 Meus projetos atuais
 
-- 🔥 **Jogatta** — Plataforma para agendamento de quadras e jogos de vôlei.
-- 🏗️ **Projeto Oxygen** — Sistema de gestão de contratos, medições e documentos técnicos.
-- 📡 **Rede FTTH residencial (Ceuma)** — Documentação e planejamento de rede óptica para campus.
+- **Jogatta** — Plataforma para agendamento de quadras e jogos de vôlei.
+- **Projeto Oxygen** — Sistema de gestão de contratos, medições e documentos técnicos.
+- **Rede FTTH residencial (Ceuma)** — Documentação e planejamento de rede óptica para campus.
 
 ---
 
@@ -61,14 +61,6 @@ Atualmente em imersão total na língua e cultura norte-americana 🇺🇸, busc
 - Especialização em **Big Data** e **Soluções inteligentes**
 - Contribuições open source significativas
 - Trabalhar com times globais e projetos de impacto
-
----
-
-## 📫 Fale comigo
-
-- 💌 Email: [seu.email@email.com] *(adicione seu email real aqui)*
-- 🔗 LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-- 🧠 Zettelkasten digital: sempre em construção...
 
 ---
 
