@@ -44,6 +44,7 @@ Engenheiro de Computação e pós-graduando em Inteligência Artificial pela PUC
     </td>
   </tr>
 </table>
+
 ---
 
 ## Contatos
