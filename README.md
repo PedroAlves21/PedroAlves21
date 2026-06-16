@@ -46,7 +46,6 @@ Engenheiro de Computação e pós-graduando em Inteligência Artificial pela PUC
 </table>
 ---
 
-## Conectatos
-
-*   **LinkedIn:** linkedin.com/in/pedro-henrique-camilo-alves-751a81305
-*   **E-mail:** [phcamilo0909@gmail.com](phcamilo0909@gmail.com)
+## Contatos
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-henrique-camilo-alves-751a81305)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phcamilo0909@gmail.com)
