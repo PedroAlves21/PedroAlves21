@@ -4,6 +4,9 @@
 
 Engenheiro de Computação e pós-graduando em Inteligência Artificial pela PUC-SP, com sólida trajetória técnica iniciada no IEMA(Ensino médio). Especialista no desenvolvimento backend com Java (Spring Boot) e engenharia de dados com Python (Pandas e Apache Spark), possuo experiência prática na entrega de softwares robustos em nível de produção. Combino conhecimentos profundos em arquitetura de software, bancos de dados SQL, contêineres (Docker), esteiras de CI/CD (GitHub Actions) e modelagem preditiva com uma cultura ágil.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-henrique-camilo-alves-751a81305)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phcamilo0909@gmail.com)
+
 ---
 ## Linguagens e Tecnologias
 #### Backend & Engenharia de Software
@@ -37,9 +40,3 @@ Engenheiro de Computação e pós-graduando em Inteligência Artificial pela PUC
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=PedroAlves21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAlves21&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
-
----
-
-## Contatos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-henrique-camilo-alves-751a81305)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phcamilo0909@gmail.com)
