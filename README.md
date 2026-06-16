@@ -2,7 +2,7 @@
 
 `Desenvolvedor Back-end & Engenheiro de Dados`
 
-Engenheiro de Computação e pós-graduando em Inteligência Artificial pela PUC-SP, com sólida trajetória técnica iniciada no IEMA. Especialista no desenvolvimento backend com Java (Spring Boot) e engenharia de dados com Python (Pandas e Apache Spark), possuo experiência prática na entrega de softwares robustos em nível de produção. Combino conhecimentos profundos em arquitetura de software, bancos de dados SQL, contêineres (Docker), esteiras de CI/CD (GitHub Actions) e modelagem preditiva com uma cultura ágil.
+Engenheiro de Computação e pós-graduando em Inteligência Artificial pela PUC-SP, com sólida trajetória técnica iniciada no IEMA(Ensino médio). Especialista no desenvolvimento backend com Java (Spring Boot) e engenharia de dados com Python (Pandas e Apache Spark), possuo experiência prática na entrega de softwares robustos em nível de produção. Combino conhecimentos profundos em arquitetura de software, bancos de dados SQL, contêineres (Docker), esteiras de CI/CD (GitHub Actions) e modelagem preditiva com uma cultura ágil.
 
 ---
 ## Linguagens e Tecnologias
