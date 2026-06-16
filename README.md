@@ -33,17 +33,10 @@ Engenheiro de Computação e pós-graduando em Inteligência Artificial pela PUC
 ---
 
 ## Estatísticas
-
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <img height="180px" src="https://github-readme-stats.vercel.app/api?username=PedroAlves21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    </td>
-    <td>
-      <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAlves21&layout=compact&langs_count=8&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PedroAlves21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAlves21&layout=compact&langs_count=8&theme=tokyonight" />
+</p>
 
 ---
 
