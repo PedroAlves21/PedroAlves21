@@ -1,14 +1,14 @@
-# Olá, eu sou Pedro Camilo
+# Hi, I'm Pedro Camilo
 
-`Desenvolvedor Back-end & Engenheiro de Dados`
+`Backend Developer & Data Engineer`
 
-Engenheiro de Computação e pós-graduando em Inteligência Artificial pela PUC-SP, com sólida trajetória técnica iniciada no IEMA(Ensino médio). Especialista no desenvolvimento backend com Java (Spring Boot) e engenharia de dados com Python (Pandas e Apache Spark), possuo experiência prática na entrega de softwares robustos em nível de produção. Combino conhecimentos profundos em arquitetura de software, bancos de dados SQL, contêineres (Docker), esteiras de CI/CD (GitHub Actions) e modelagem preditiva com uma cultura ágil.
+Computer Engineer and postgraduate student in Artificial Intelligence at PUC-SP, with a solid technical trajectory that began at IEMA (technical high school). Specialized in backend development with Java (Spring Boot) and data engineering with Python (Pandas and Apache Spark), I have hands-on experience in delivering robust, production-grade software. I combine a deep understanding of software architecture, SQL databases, containerization (Docker), CI/CD pipelines (GitHub Actions), and predictive modeling with an agile culture.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-henrique-camilo-alves-751a81305)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phcamilo0909@gmail.com)
 
 ---
-## Linguagens e Tecnologias
+## Languages and Technologies
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
@@ -28,7 +28,7 @@ Engenheiro de Computação e pós-graduando em Inteligência Artificial pela PUC
 
 ---
 
-## Estatísticas
+## Statistics
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=PedroAlves21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAlves21&layout=compact&langs_count=8&theme=tokyonight" />
