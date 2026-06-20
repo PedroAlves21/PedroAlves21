@@ -30,6 +30,5 @@ Computer Engineer and postgraduate student in Artificial Intelligence at PUC-SP,
 
 ## Statistics
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=PedroAlves21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAlves21&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
