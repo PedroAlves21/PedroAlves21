@@ -26,9 +26,6 @@ Computer Engineer and postgraduate student in Artificial Intelligence at PUC-SP,
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
----
-
-## Statistics
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAlves21&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
